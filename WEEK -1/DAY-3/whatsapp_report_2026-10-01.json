@@ -1,0 +1,19 @@
+{
+    "report_date": "2026-10-01",
+    "generated_at": "2026-10-01T19:07:59.497089",
+    "total_contacts": 1,
+    "sent": 0,
+    "results": [
+        {
+            "name": "Civic Karthi",
+            "phone": "+919884269222",
+            "sent_message": "Hello Civic Karthi, hope you are doing well.",
+            "status": "SENT_UNCONFIRMED",
+            "search_method": "name",
+            "last_3_incoming_messages": [],
+            "screenshot": "D:\\AI CLASS\\WEEK -1\\DAY-3\\whatsapp_screenshots\\01_Civic Karthi_20261001_190755.png",
+            "error": null,
+            "timestamp": "2026-10-01T19:07:15.512837"
+        }
+    ]
+}

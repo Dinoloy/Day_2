@@ -1,0 +1,6 @@
+2026/10/01-19:06:58.953 6164 Reusing MANIFEST D:\AI CLASS\WEEK -1\DAY-3\whatsapp_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/01-19:06:58.956 6164 Recovering log #4
+2026/10/01-19:06:58.963 6164 Reusing old log D:\AI CLASS\WEEK -1\DAY-3\whatsapp_profile\Default\Local Storage\leveldb/000004.log 
+2026/10/01-19:07:19.889 69e0 Level-0 table #8: started
+2026/10/01-19:07:19.895 69e0 Level-0 table #8: 13625 bytes OK
+2026/10/01-19:07:19.898 69e0 Delete type=0 #4
